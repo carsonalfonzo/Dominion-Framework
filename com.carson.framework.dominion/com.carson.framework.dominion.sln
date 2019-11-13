@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.carson.framework.domini
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.carson.frameworks.dominion.editor", "..\com.carson.frameworks.dominion.editor\com.carson.frameworks.dominion.editor.csproj", "{DB9C6143-B44B-4BA7-B9BF-7F836C9465BC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unity Package", "Unity Package", "{FD36E01D-F1B5-4E39-ACE3-A51C8073C064}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace com.carson.framework.dominion
+namespace com.carson.frameworks.dominion.editor
 {
-    public class Class1
+    public class DominionEditorWidow
     {
     }
 }
